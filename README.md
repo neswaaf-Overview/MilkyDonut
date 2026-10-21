@@ -66,12 +66,15 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 |---|---|
 | 
 
-![Layar Utama](documents/Layar Utama.png)
+![Layar Utama]
+
+<img width="738" height="1600" alt="Layar Utama" src="https://github.com/user-attachments/assets/d8d1776f-f48c-4239-aeee-21765620d993" />
 
  | 
 
-![Menghias Donat](documents/Menghias Donat.png)
+![Menghias Donat]
 
+<img width="497" height="1280" alt="Menghias Donat" src="https://github.com/user-attachments/assets/81c8f8bf-296a-468c-bf0c-3b2a665e0024" />
  |
 
 ## 🔮 Rencana Pengembangan
