@@ -66,11 +66,11 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 |---|---|
 | 
 
-![Layar Utama](screenshots/layar1.png)
+![Layar Utama](documents/Layar Utama.png)
 
  | 
 
-![Menghias Donat](screenshots/layar2.png)
+![Menghias Donat](documents/Menghias Donat.png)
 
  |
 
