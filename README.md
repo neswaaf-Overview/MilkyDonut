@@ -74,3 +74,8 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 
  |
 
+## 🔮 Rencana Pengembangan
+
+- Misi harian dengan hadiah poin
+- Skor dan donat jadi tersimpan permanen (SharedPreferences)
+- Daftar pesanan dan riwayat donat yang pernah dibuat
