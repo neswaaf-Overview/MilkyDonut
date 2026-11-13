@@ -61,6 +61,13 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 ```
 
 ## 📸 Tangkapan Layar (Screenshot)
+### 1. Halaman Login
+
+
+
+![Login MilkyDonut](login-milkydonut.png)
+
+
 
 | Layar Utama | Menghias Donat |
 |---|---|
