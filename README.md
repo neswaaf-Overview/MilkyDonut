@@ -62,7 +62,6 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 
 ## 📸 Tangkapan Layar (Screenshot)
 ### 1. Halaman Login
-![Login MilkyDonut](login-milkydonut.jpeg)
 <img width="738" height="1600" alt="WhatsApp Image 2026-11-13 at 14 25 09" src="https://github.com/user-attachments/assets/841bb1b7-ee4e-4e6f-a0fa-c836f4c24457" />
 
 
