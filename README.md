@@ -1,3 +1,4 @@
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-13 at 14 25 09" src="https://github.com/user-attachments/assets/841bb1b7-ee4e-4e6f-a0fa-c836f4c24457" />
 # 🍩 Milky Donut - Aplikasi Menghias Donat Imut
 
 Aplikasi **Milky Donut** berbasis Android untuk menghias donat sesuka hati: pilih rasa glasir, tambahkan topping, lihat donatnya berubah langsung, dan harga dihitung otomatis. Setiap donat yang jadi akan menambah skor. Dikembangkan menggunakan Kotlin dan XML (Material Components) di Android Studio.
