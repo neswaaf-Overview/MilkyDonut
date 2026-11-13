@@ -65,7 +65,7 @@ adb shell am start -n com.example.milkydonut/.MainActivity
 
 
 
-![Login MilkyDonut](login-milkydonut.png)
+![Login MilkyDonut](login-milkydonut.jpeg)
 
 
 
